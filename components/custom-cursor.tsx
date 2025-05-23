@@ -35,7 +35,7 @@ export default function CustomCursor() {
         target.closest("button") ||
         target.classList.contains("clickable")
 
-      setIsHovering(isClickable)
+      setIsHovering(!!isClickable)
     }
 
     window.addEventListener("mousemove", handleMouseMove)
