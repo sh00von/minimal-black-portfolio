@@ -50,8 +50,8 @@ A sleek, modern portfolio website built with Next.js, Tailwind CSS, and Framer M
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/modern-portfolio.git
-   cd modern-portfolio
+   git clone https://github.com/sh00von/minimal-black-portfolio
+   cd minimal-black-portfolio
    \`\`\`
 
 2. Install dependencies:
@@ -137,10 +137,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- Email: minar.svn@gmail.com
+- LinkedIn: [Minaruzzaman Shovon](linkedin.com/in/minarsvn9090)
 
 ---
 
-Made with ❤️ by [Your Name](https://yourportfolio.com)
+Made with ❤️ by [Minaruzzaman Shovon](https://yourportfolio.com)
