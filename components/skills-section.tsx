@@ -71,7 +71,7 @@ export default function SkillsSection() {
                       <span className="text-sm font-medium">{skill.name}</span>
                       <span className="text-sm text-zinc-400">{skill.level}%</span>
                     </div>
-                    <Progress value={skill.level} className="h-2 bg-zinc-700" indicatorClassName="bg-emerald-500" />
+                    <Progress value={skill.level} className="h-2 bg-zinc-700"/>
                   </div>
                 ))}
               </div>
