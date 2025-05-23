@@ -1,8 +1,28 @@
-# Modern Developer Portfolio
+# Modern Developer Portfolio 🚀
 
-A sleek, modern portfolio website built with Next.js, Tailwind CSS, and Framer Motion. This portfolio is designed for developers, engineers, and tech professionals who want to showcase their skills, projects, and achievements in a professional and visually appealing way.
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+> A sleek, modern portfolio website built with Next.js, Tailwind CSS, and Framer Motion. Perfect for developers, engineers, and tech professionals to showcase their skills, projects, and achievements in a professional and visually appealing way.
 
 ![Portfolio Preview](preview.png)
+
+## 📋 Table of Contents
+
+- [Features](#-features)
+- [Sections](#-sections)
+- [Technologies Used](#️-technologies-used)
+- [Getting Started](#-getting-started)
+- [Customization](#-customization)
+- [Responsive Design](#-responsive-design)
+- [SEO](#-seo)
+- [Deployment](#-deployment)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
+- [Contact](#-contact)
 
 ## 🌟 Features
 
@@ -103,15 +123,20 @@ The portfolio is fully responsive and looks great on all devices:
 - **Tablet**: Adjusted layouts for medium-sized screens
 - **Desktop**: Full experience with all features
 
-## 🔍 SEO
+## 🔍 SEO Features
 
-The portfolio is built with SEO in mind:
+The portfolio is built with SEO best practices in mind:
 
-- Semantic HTML
-- Meta tags
-- Structured data
-- Optimized images
-- Fast loading times
+- **Semantic HTML5**: Proper use of HTML5 elements for better structure and accessibility
+- **Meta Tags**: Comprehensive meta tags for better social sharing and search engine visibility
+- **Structured Data**: JSON-LD implementation for rich snippets
+- **Optimized Images**: Automatic image optimization with Next.js
+- **Performance**: Lighthouse score optimization
+- **Mobile-First**: Responsive design with mobile-first approach
+- **Sitemap**: Automatic sitemap generation
+- **Robots.txt**: Proper search engine crawling instructions
+- **Open Graph**: Enhanced social media sharing
+- **Twitter Cards**: Optimized Twitter sharing
 
 ## 🌐 Deployment
 
@@ -140,6 +165,27 @@ If you have any questions or feedback, feel free to reach out:
 - Email: minar.svn@gmail.com
 - LinkedIn: [Minaruzzaman Shovon](linkedin.com/in/minarsvn9090)
 
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/sh00von/minimal-black-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sh00von/minimal-black-portfolio?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sh00von/minimal-black-portfolio)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sh00von/minimal-black-portfolio)
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sh00von/minimal-black-portfolio/issues).
+
 ---
 
-Made with ❤️ by [Minaruzzaman Shovon](https://yourportfolio.com)
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/sh00von">Minaruzzaman Shovon</a>
+</div>
+
+<div align="center">
+  <sub>Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion</sub>
+</div>
