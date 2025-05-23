@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Neural Network from Scratch in JavaScript",
+    "excerpt": "Learn how to implement a simple neural network using only vanilla JavaScript, with step-by-step explanations of the math behind it.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "date": "May 15, 2023",
+    "readTime": "8 min read",
+    "category": "Machine Learning",
+    "slug": "neural-network-javascript"
+  },
+  {
+    "id": 2,
+    "title": "Advanced React Patterns for Scalable Applications",
+    "excerpt": "Explore advanced React patterns like compound components, render props, and hooks that will help you build more maintainable React applications.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "date": "April 3, 2023",
+    "readTime": "12 min read",
+    "category": "Web Development",
+    "slug": "advanced-react-patterns"
+  },
+  {
+    "id": 3,
+    "title": "Ethical Hacking: Finding Vulnerabilities in Web Applications",
+    "excerpt": "A comprehensive guide to identifying common security vulnerabilities in web applications and how to fix them.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "date": "March 21, 2023",
+    "readTime": "10 min read",
+    "category": "Security",
+    "slug": "ethical-hacking-web-apps"
+  }
+]

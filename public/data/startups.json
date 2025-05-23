@@ -1,0 +1,58 @@
+[
+  {
+    "title": "NEXITE",
+    "role": "CEO & Founder",
+    "period": "2023 - Present",
+    "description": "Leading a technology startup focused on developing innovative solutions for environmental monitoring and smart city infrastructure.",
+    "achievements": [
+      "Secured $500K in seed funding",
+      "Built a team of 15+ engineers and researchers",
+      "Launched 3 successful products in the market",
+      "Established partnerships with 10+ municipalities"
+    ],
+    "status": "Active",
+    "color": "border-green-500"
+  },
+  {
+    "title": "Ongko",
+    "role": "President & Founder",
+    "period": "2022 - Present",
+    "description": "Founded and leading a student organization focused on promoting entrepreneurship and innovation among university students.",
+    "achievements": [
+      "Organized 20+ workshops and seminars",
+      "Mentored 100+ student entrepreneurs",
+      "Facilitated $50K+ in student startup funding",
+      "Established network of 500+ members"
+    ],
+    "status": "Active",
+    "color": "border-blue-500"
+  },
+  {
+    "title": "CUET Cyber Security Club",
+    "role": "President & Founding Member",
+    "period": "2021 - Present",
+    "description": "Co-founded and leading the cybersecurity club at CUET, promoting security awareness and organizing competitive events.",
+    "achievements": [
+      "Organized 15+ CTF competitions",
+      "Trained 200+ students in cybersecurity",
+      "Won 5 national cybersecurity competitions",
+      "Established partnerships with security firms"
+    ],
+    "status": "Active",
+    "color": "border-red-500"
+  },
+  {
+    "title": "TechVenture Incubator",
+    "role": "Technical Advisor",
+    "period": "2023 - Present",
+    "description": "Providing technical guidance and mentorship to early-stage startups in the technology and environmental sectors.",
+    "achievements": [
+      "Advised 25+ startup teams",
+      "Helped raise $2M+ in total funding",
+      "Conducted 50+ technical reviews",
+      "Facilitated 10+ successful product launches"
+    ],
+    "status": "Active",
+    "color": "border-purple-500"
+  }
+]

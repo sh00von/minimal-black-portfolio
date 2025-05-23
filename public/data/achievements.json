@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "category": "Academic Excellence",
+      "color": "border-yellow-500",
+      "items": [
+        {
+          "title": "Dean's List",
+          "description": "Maintained GPA above 3.8 for 6 consecutive semesters",
+          "year": "2021-2024",
+          "type": "Academic"
+        },
+        {
+          "title": "Best Research Paper Award",
+          "description": "Water Resources Engineering Conference 2023",
+          "year": "2023",
+          "type": "Research"
+        },
+        {
+          "title": "Merit Scholarship",
+          "description": "Full tuition scholarship for academic excellence",
+          "year": "2021-2024",
+          "type": "Scholarship"
+        }
+      ]
+    },
+    {
+      "category": "Cybersecurity & CTF",
+      "color": "border-red-500",
+      "items": [
+        {
+          "title": "National CTF Championship",
+          "description": "1st place in Bangladesh National Cybersecurity Competition",
+          "year": "2023",
+          "type": "Competition"
+        },
+        {
+          "title": "HackTheBox Top 1%",
+          "description": "Ranked in top 1% globally with 25+ machines pwned",
+          "year": "2023",
+          "type": "Platform"
+        },
+        {
+          "title": "Bug Bounty Hunter",
+          "description": "Discovered 15+ vulnerabilities in major platforms",
+          "year": "2022-2024",
+          "type": "Security"
+        }
+      ]
+    },
+    {
+      "category": "Entrepreneurship",
+      "color": "border-green-500",
+      "items": [
+        {
+          "title": "Startup Pitch Winner",
+          "description": "Won $50K funding at National Startup Competition",
+          "year": "2023",
+          "type": "Competition"
+        },
+        {
+          "title": "Young Entrepreneur Award",
+          "description": "Recognized by Bangladesh Startup Ecosystem",
+          "year": "2023",
+          "type": "Recognition"
+        },
+        {
+          "title": "Innovation Challenge",
+          "description": "1st place in CUET Innovation and Technology Fair",
+          "year": "2022",
+          "type": "Innovation"
+        }
+      ]
+    },
+    {
+      "category": "Technical Achievements",
+      "color": "border-blue-500",
+      "items": [
+        {
+          "title": "Open Source Contributor",
+          "description": "500+ contributions to major open source projects",
+          "year": "2021-2024",
+          "type": "Development"
+        },
+        {
+          "title": "Machine Learning Certification",
+          "description": "Advanced ML certification from Stanford Online",
+          "year": "2023",
+          "type": "Certification"
+        },
+        {
+          "title": "AWS Solutions Architect",
+          "description": "Professional level cloud architecture certification",
+          "year": "2023",
+          "type": "Certification"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    { "label": "Awards Won", "value": "25+" },
+    { "label": "Competitions", "value": "40+" },
+    { "label": "Certifications", "value": "15+" },
+    { "label": "Recognition", "value": "10+" }
+  ]
+}

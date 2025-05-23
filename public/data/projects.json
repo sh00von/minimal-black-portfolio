@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "title": "AI-Powered Security Scanner",
+    "description": "A machine learning-based security scanner that detects vulnerabilities in web applications.",
+    "fullDescription": "This project combines machine learning algorithms with traditional security scanning techniques to identify vulnerabilities in web applications with unprecedented accuracy. The system uses natural language processing to analyze code patterns and deep learning models to predict potential security flaws before they can be exploited.",
+    "tags": ["Machine Learning", "Security", "Python"],
+    "category": "security",
+    "link": "#",
+    "github": "#",
+    "duration": "6 months",
+    "team": "Solo Project",
+    "status": "Completed",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Automated vulnerability detection using ML algorithms",
+      "Real-time scanning and reporting dashboard",
+      "Integration with popular CI/CD pipelines",
+      "Custom rule engine for specific security policies",
+      "Detailed remediation suggestions with code examples"
+    ],
+    "challenges": [
+      "Training ML models with limited labeled security data",
+      "Reducing false positive rates while maintaining high detection accuracy",
+      "Optimizing scanning performance for large codebases",
+      "Creating an intuitive interface for security professionals"
+    ],
+    "technologies": ["Python", "TensorFlow", "Flask", "PostgreSQL", "Docker", "Redis", "Celery"]
+  },
+  {
+    "id": 2,
+    "title": "Distributed Systems Architecture",
+    "description": "Scalable distributed system architecture for high-traffic applications.",
+    "fullDescription": "Designed and implemented a microservices-based architecture capable of handling millions of requests per day. The system features automatic scaling, fault tolerance, and real-time monitoring across multiple data centers.",
+    "tags": ["System Design", "Backend", "Cloud"],
+    "category": "engineering",
+    "link": "#",
+    "github": "#",
+    "duration": "8 months",
+    "team": "Team of 4",
+    "status": "In Production",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Auto-scaling microservices architecture",
+      "Load balancing across multiple regions",
+      "Real-time monitoring and alerting",
+      "Fault-tolerant design with circuit breakers",
+      "Event-driven communication between services"
+    ],
+    "challenges": [
+      "Ensuring data consistency across distributed services",
+      "Implementing effective service discovery mechanisms",
+      "Managing complex deployment pipelines",
+      "Optimizing inter-service communication latency"
+    ],
+    "technologies": ["Node.js", "Kubernetes", "AWS", "MongoDB", "Redis", "RabbitMQ", "Prometheus"]
+  },
+  {
+    "id": 3,
+    "title": "Water Quality Monitoring System",
+    "description": "IoT-based system for real-time water quality monitoring in urban environments.",
+    "fullDescription": "Developed a comprehensive IoT solution for monitoring water quality parameters in real-time across urban water distribution networks. The system combines sensor networks, edge computing, and cloud analytics to provide actionable insights for water management authorities.",
+    "tags": ["IoT", "Environmental", "Data Analytics"],
+    "category": "research",
+    "link": "#",
+    "github": "#",
+    "duration": "10 months",
+    "team": "Research Team of 6",
+    "status": "Deployed",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Real-time sensor data collection and transmission",
+      "Edge computing for local data processing",
+      "Cloud-based analytics and visualization dashboard",
+      "Automated alert system for quality violations",
+      "Mobile app for field technicians"
+    ],
+    "challenges": [
+      "Ensuring sensor reliability in harsh environments",
+      "Managing power consumption for remote sensors",
+      "Handling intermittent connectivity issues",
+      "Calibrating sensors for accurate measurements"
+    ],
+    "technologies": ["Arduino", "LoRaWAN", "AWS IoT", "Python", "React", "PostgreSQL", "Grafana"]
+  },
+  {
+    "id": 4,
+    "title": "Blockchain-based Supply Chain",
+    "description": "Transparent supply chain management system using blockchain technology.",
+    "fullDescription": "Created a blockchain-based supply chain management system that provides end-to-end transparency and traceability for agricultural products. The system enables consumers to verify the authenticity and journey of products from farm to table.",
+    "tags": ["Blockchain", "Supply Chain", "Web3"],
+    "category": "web3",
+    "link": "#",
+    "github": "#",
+    "duration": "7 months",
+    "team": "Team of 5",
+    "status": "Pilot Testing",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Immutable product tracking and verification",
+      "Smart contracts for automated compliance",
+      "QR code scanning for consumer verification",
+      "Multi-stakeholder dashboard for supply chain visibility",
+      "Integration with existing ERP systems"
+    ],
+    "challenges": [
+      "Ensuring scalability for high transaction volumes",
+      "Managing gas costs for blockchain transactions",
+      "Integrating with legacy supply chain systems",
+      "Educating stakeholders about blockchain benefits"
+    ],
+    "technologies": ["Solidity", "Ethereum", "Web3.js", "React", "Node.js", "IPFS", "MetaMask"]
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Analytics Platform",
+    "description": "Advanced analytics platform for e-commerce businesses with AI-powered insights.",
+    "fullDescription": "Built a comprehensive analytics platform that helps e-commerce businesses understand customer behavior, optimize pricing strategies, and predict market trends using machine learning algorithms.",
+    "tags": ["Analytics", "E-commerce", "Machine Learning"],
+    "category": "web",
+    "link": "#",
+    "github": "#",
+    "duration": "5 months",
+    "team": "Team of 3",
+    "status": "Live",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Real-time sales and customer analytics",
+      "AI-powered price optimization recommendations",
+      "Customer segmentation and behavior analysis",
+      "Inventory forecasting and demand prediction",
+      "Customizable reporting and dashboard"
+    ],
+    "challenges": [
+      "Processing large volumes of transaction data",
+      "Implementing real-time analytics with low latency",
+      "Creating intuitive visualizations for complex data",
+      "Ensuring data privacy and security compliance"
+    ],
+    "technologies": ["Python", "Apache Kafka", "Elasticsearch", "React", "D3.js", "PostgreSQL", "Redis"]
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Training Platform",
+    "description": "Interactive platform for cybersecurity education and hands-on training.",
+    "fullDescription": "Developed an interactive cybersecurity training platform that provides hands-on experience with real-world security scenarios. The platform includes virtual labs, CTF challenges, and comprehensive learning modules.",
+    "tags": ["Education", "Cybersecurity", "Platform"],
+    "category": "security",
+    "link": "#",
+    "github": "#",
+    "duration": "9 months",
+    "team": "Team of 4",
+    "status": "Active",
+    "featured": true,
+    "image": "/placeholder.svg?height=400&width=600",
+    "features": [
+      "Virtual lab environments for hands-on practice",
+      "Progressive CTF challenges with varying difficulty",
+      "Comprehensive learning modules and tutorials",
+      "Real-time collaboration and mentoring features",
+      "Performance tracking and certification system"
+    ],
+    "challenges": [
+      "Creating realistic and safe virtual environments",
+      "Designing engaging and educational content",
+      "Scaling infrastructure for concurrent users",
+      "Implementing secure sandboxing for exercises"
+    ],
+    "technologies": ["Docker", "Kubernetes", "React", "Node.js", "MongoDB", "WebRTC", "Ansible"]
+  }
+]

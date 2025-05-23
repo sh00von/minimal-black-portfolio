@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "text": "One of the most talented developers I've worked with. Their ability to solve complex problems while maintaining clean code is impressive.",
+    "author": "Jane Smith",
+    "position": "CTO, Tech Innovations Inc.",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 2,
+    "text": "Their expertise in machine learning helped our team develop a cutting-edge recommendation system that increased user engagement by 45%.",
+    "author": "Michael Johnson",
+    "position": "Lead Data Scientist, AI Solutions",
+    "image": "/placeholder.svg?height=100&width=100"
+  },
+  {
+    "id": 3,
+    "text": "An exceptional security consultant who identified critical vulnerabilities in our system that other penetration testers missed.",
+    "author": "Sarah Williams",
+    "position": "Security Director, SecureCorp",
+    "image": "/placeholder.svg?height=100&width=100"
+  }
+]

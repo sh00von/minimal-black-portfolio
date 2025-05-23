@@ -1,0 +1,8 @@
+[
+  { "id": "all", "label": "All Projects" },
+  { "id": "web", "label": "Web Development" },
+  { "id": "security", "label": "Cybersecurity" },
+  { "id": "research", "label": "Research" },
+  { "id": "engineering", "label": "Engineering" },
+  { "id": "web3", "label": "Web3/Blockchain" }
+]

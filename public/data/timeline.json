@@ -1,0 +1,44 @@
+[
+  {
+    "year": "2023 - Present",
+    "title": "Senior Web Developer",
+    "company": "Tech Innovations Inc.",
+    "description": "Leading development of next-generation web applications using cutting-edge technologies.",
+    "category": "work"
+  },
+  {
+    "year": "2022",
+    "title": "Machine Learning Certification",
+    "company": "AI Institute",
+    "description": "Advanced certification in machine learning algorithms and neural networks.",
+    "category": "education"
+  },
+  {
+    "year": "2020 - 2023",
+    "title": "Full Stack Developer",
+    "company": "Digital Solutions Ltd.",
+    "description": "Developed and maintained complex web applications for enterprise clients.",
+    "category": "work"
+  },
+  {
+    "year": "2019",
+    "title": "Master's Degree in Computer Science",
+    "company": "Tech University",
+    "description": "Specialized in artificial intelligence and cybersecurity.",
+    "category": "education"
+  },
+  {
+    "year": "2017 - 2020",
+    "title": "Junior Developer",
+    "company": "StartUp Ventures",
+    "description": "Worked on frontend development and UI/UX design for mobile applications.",
+    "category": "work"
+  },
+  {
+    "year": "2017",
+    "title": "Bachelor's Degree in Computer Engineering",
+    "company": "State University",
+    "description": "Graduated with honors. Focused on software engineering and network security.",
+    "category": "education"
+  }
+]

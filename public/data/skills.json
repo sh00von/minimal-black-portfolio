@@ -1,0 +1,98 @@
+[
+  {
+    "id": "development",
+    "title": "Development",
+    "skills": [
+      { "name": "JavaScript", "color": "border-yellow-500" },
+      { "name": "TypeScript", "color": "border-blue-500" },
+      { "name": "React", "color": "border-cyan-500" },
+      { "name": "Next.js", "color": "border-white" },
+      { "name": "Node.js", "color": "border-green-500" },
+      { "name": "HTML", "color": "border-orange-500" },
+      { "name": "CSS", "color": "border-blue-400" },
+      { "name": "Tailwind CSS", "color": "border-cyan-400" },
+      { "name": "Redux", "color": "border-purple-500" },
+      { "name": "GraphQL", "color": "border-pink-500" },
+      { "name": "REST API", "color": "border-green-400" },
+      { "name": "Webpack", "color": "border-blue-300" }
+    ],
+    "stats": [
+      { "value": "5+", "label": "Years Frontend" },
+      { "value": "4+", "label": "Years Backend" },
+      { "value": "20+", "label": "Web Projects" },
+      { "value": "10+", "label": "Libraries Used" }
+    ]
+  },
+  {
+    "id": "engineering",
+    "title": "Engineering",
+    "skills": [
+      { "name": "System Design", "color": "border-blue-500" },
+      { "name": "Architecture", "color": "border-indigo-500" },
+      { "name": "DevOps", "color": "border-orange-500" },
+      { "name": "AWS", "color": "border-yellow-600" },
+      { "name": "CI/CD", "color": "border-green-500" },
+      { "name": "Docker", "color": "border-blue-400" },
+      { "name": "Kubernetes", "color": "border-blue-500" },
+      { "name": "Git", "color": "border-orange-600" },
+      { "name": "Microservices", "color": "border-green-400" },
+      { "name": "Serverless", "color": "border-yellow-500" },
+      { "name": "Testing", "color": "border-red-500" },
+      { "name": "Performance", "color": "border-purple-500" }
+    ],
+    "stats": [
+      { "value": "3+", "label": "Years DevOps" },
+      { "value": "15+", "label": "Systems Designed" },
+      { "value": "5+", "label": "Cloud Platforms" },
+      { "value": "8+", "label": "CI/CD Pipelines" }
+    ]
+  },
+  {
+    "id": "machine-learning",
+    "title": "ML/AI",
+    "skills": [
+      { "name": "TensorFlow", "color": "border-orange-500" },
+      { "name": "PyTorch", "color": "border-red-500" },
+      { "name": "NLP", "color": "border-green-500" },
+      { "name": "Computer Vision", "color": "border-blue-500" },
+      { "name": "Data Analysis", "color": "border-yellow-500" },
+      { "name": "Python", "color": "border-blue-400" },
+      { "name": "Scikit-learn", "color": "border-orange-400" },
+      { "name": "Pandas", "color": "border-purple-500" },
+      { "name": "NumPy", "color": "border-blue-300" },
+      { "name": "Jupyter", "color": "border-orange-500" },
+      { "name": "Data Visualization", "color": "border-green-400" },
+      { "name": "Deep Learning", "color": "border-red-400" }
+    ],
+    "stats": [
+      { "value": "3+", "label": "Years ML/AI" },
+      { "value": "10+", "label": "ML Models" },
+      { "value": "5+", "label": "Research Papers" },
+      { "value": "3+", "label": "ML Frameworks" }
+    ]
+  },
+  {
+    "id": "security",
+    "title": "Security",
+    "skills": [
+      { "name": "Penetration Testing", "color": "border-red-500" },
+      { "name": "Vulnerability Assessment", "color": "border-orange-500" },
+      { "name": "Network Security", "color": "border-blue-500" },
+      { "name": "Cryptography", "color": "border-green-500" },
+      { "name": "Security Auditing", "color": "border-yellow-500" },
+      { "name": "Ethical Hacking", "color": "border-purple-500" },
+      { "name": "OWASP", "color": "border-red-400" },
+      { "name": "Secure Coding", "color": "border-green-400" },
+      { "name": "Threat Modeling", "color": "border-blue-400" },
+      { "name": "Incident Response", "color": "border-orange-400" },
+      { "name": "Security Tools", "color": "border-indigo-500" },
+      { "name": "Forensics", "color": "border-purple-400" }
+    ],
+    "stats": [
+      { "value": "4+", "label": "Years Security" },
+      { "value": "15+", "label": "CTF Competitions" },
+      { "value": "20+", "label": "Vulnerabilities Found" },
+      { "value": "3+", "label": "Security Certifications" }
+    ]
+  }
+]

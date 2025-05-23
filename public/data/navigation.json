@@ -1,0 +1,9 @@
+[
+  { "name": "About", "href": "#about", "icon": "BookOpen" },
+  { "name": "Skills", "href": "#skills", "icon": "Code" },
+  { "name": "Research", "href": "#research", "icon": "BookOpen" },
+  { "name": "Startups", "href": "#startups", "icon": "Briefcase" },
+  { "name": "Achievements", "href": "#achievements", "icon": "Award" },
+  { "name": "Projects", "href": "#projects", "icon": "Code" },
+  { "name": "Contact", "href": "#contact", "icon": "Mail" }
+]

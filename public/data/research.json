@@ -1,0 +1,44 @@
+{
+  "areas": [
+    {
+      "title": "Water Resources Management",
+      "description": "Developing AI-driven solutions for sustainable water resource management, including predictive modeling for water quality and availability.",
+      "keywords": ["Hydrology", "Water Quality", "Sustainability", "Predictive Modeling"]
+    },
+    {
+      "title": "Machine Learning in Environmental Engineering",
+      "description": "Applying deep learning and computer vision techniques to environmental monitoring and climate change mitigation strategies.",
+      "keywords": ["Deep Learning", "Computer Vision", "Climate Change", "Environmental Monitoring"]
+    },
+    {
+      "title": "Cybersecurity in Critical Infrastructure",
+      "description": "Researching security vulnerabilities and developing protection mechanisms for water treatment facilities and environmental monitoring systems.",
+      "keywords": ["Critical Infrastructure", "SCADA Security", "IoT Security", "Threat Detection"]
+    },
+    {
+      "title": "Smart Water Systems",
+      "description": "Designing intelligent water distribution networks using IoT sensors, real-time analytics, and automated control systems.",
+      "keywords": ["IoT", "Smart Cities", "Real-time Analytics", "Automation"]
+    }
+  ],
+  "publications": [
+    {
+      "title": "AI-Driven Water Quality Prediction in Urban Environments",
+      "journal": "Journal of Environmental Engineering",
+      "year": "2024",
+      "status": "Under Review"
+    },
+    {
+      "title": "Cybersecurity Framework for Smart Water Infrastructure",
+      "journal": "Water Resources Research",
+      "year": "2023",
+      "status": "Published"
+    },
+    {
+      "title": "Machine Learning Approaches for Flood Prediction",
+      "journal": "Hydrological Sciences Journal",
+      "year": "2023",
+      "status": "Published"
+    }
+  ]
+}

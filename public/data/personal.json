@@ -1,0 +1,35 @@
+{
+  "name": "Shovon",
+  "title": "Web Developer & Engineer",
+  "email": "shovon@example.com",
+  "phone": "+880 123 456 7890",
+  "location": "Chittagong University of Engineering & Technology (CUET), Bangladesh",
+  "bio": "I specialize in building exceptional digital experiences while pursuing my studies in Water Resources Engineering. With a background in web development, machine learning, and ethical hacking, I bring a unique perspective that combines environmental engineering with cutting-edge technology.",
+  "longBio": "I'm a developer, engineer, and lifelong learner currently focused on developing innovative solutions for environmental challenges while building accessible, human-centered products that solve real-world problems. My approach combines technical expertise with environmental consciousness and a deep understanding of user needs.",
+  "education": {
+    "university": "Chittagong University of Engineering & Technology (CUET)",
+    "degree": "Bachelor's Degree",
+    "field": "Water Resources Engineering",
+    "year": "2020-2024"
+  },
+  "stats": [
+    {
+      "value": "5+",
+      "label": "Years of Experience"
+    },
+    {
+      "value": "30+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "3",
+      "label": "Startups Founded"
+    },
+    {
+      "value": "15+",
+      "label": "Awards Won"
+    }
+  ],
+  "resumeUrl": "/resume.pdf",
+  "roles": ["Web Developer", "Engineer", "ML Expert", "Ethical Hacker", "Student"]
+}
